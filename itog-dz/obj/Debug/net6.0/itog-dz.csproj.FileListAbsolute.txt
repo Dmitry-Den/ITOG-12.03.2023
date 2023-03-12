@@ -1,0 +1,15 @@
+K:\gb\ITOG-12.03.2023\itog-dz\bin\Debug\net6.0\itog-dz.exe
+K:\gb\ITOG-12.03.2023\itog-dz\bin\Debug\net6.0\itog-dz.deps.json
+K:\gb\ITOG-12.03.2023\itog-dz\bin\Debug\net6.0\itog-dz.runtimeconfig.json
+K:\gb\ITOG-12.03.2023\itog-dz\bin\Debug\net6.0\itog-dz.dll
+K:\gb\ITOG-12.03.2023\itog-dz\bin\Debug\net6.0\itog-dz.pdb
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.csproj.AssemblyReference.cache
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.GeneratedMSBuildEditorConfig.editorconfig
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.AssemblyInfoInputs.cache
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.AssemblyInfo.cs
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.csproj.CoreCompileInputs.cache
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.dll
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\refint\itog-dz.dll
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.pdb
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\itog-dz.genruntimeconfig.cache
+K:\gb\ITOG-12.03.2023\itog-dz\obj\Debug\net6.0\ref\itog-dz.dll
